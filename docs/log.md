@@ -92,3 +92,4 @@ spnd|5|Support Vector Machine|Análisis|Finalizado|03/07/2021|
 |87|04/07/2021|1|ChristianR007|8|Arboles de decision|Implementacion de Arboles de decision utilizando algoritmo ID3 con el calculo de la ganancia de la informacion|Finalizado|04/07/2021|
 |88|04/07/2021|1|WillyAlberto|8|Regresion lineal|Minimos cuadrados|Finalizado|04/07/2021|
 |89|04/07/2021|1|marcolograjeda|13|Regresion lineal|Test del algortimo|Desarrollo|04/07/2021|
+|90|04/07/2021|1|marcolograjeda|13|Regresion lineal|Test del algortimo|Finalizado|04/07/2021|
